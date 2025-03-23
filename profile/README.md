@@ -22,25 +22,10 @@ Our core values:
 Here are some of our featured projects:
 
 - **[Lava]**  
-  *Description*: A lightweight and extensible task automation platform designed to simplify daily workflows and project coordination.  
+  *Description*: Lava is a platform designed to gather, structure, and connect ideas from a variety of sources—be it notes, conversations, articles, or spontaneous thoughts. Its goal is to help individuals and teams collect scattered insights in one place, identify patterns, and build coherent solutions from fragmented inspiration. Whether you're brainstorming, researching, or managing creative projects, Lava acts as a central hub to turn raw input into actionable knowledge.
   [View Repository](https://github.com/Lava-Inc/lava)
 
 For a complete list of our projects, visit [our GitHub page](https://github.com/Lava-Inc?type=source).
-
----
-
-## How to Contribute
-
-We welcome contributions from the community!  
-To get involved:
-
-1. **Fork** the repository for the project you’re interested in.
-2. **Clone** your fork locally.
-3. Create a branch for your changes:
-   - For a new feature: `feature/my-new-feature`
-   - For a bug fix: `fix/bug-description`
-4. Make your changes and submit a **Pull Request**.
-5. Check out our [CONTRIBUTING.md](./CONTRIBUTING.md) file for more details about our contribution process.
 
 ---
 
