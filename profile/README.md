@@ -62,7 +62,7 @@ For questions, ideas, or support:
 
 ## License
 
-The projects under **Lava Inc.** are licensed under the [MIT License](./LICENSE).  
+The projects under **Lava Inc.** are licensed under the [MIT License](../LICENSE).  
 You are free to use, modify, and distribute them under the terms of this license.
 
 ---
