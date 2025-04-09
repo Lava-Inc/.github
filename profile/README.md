@@ -1,7 +1,7 @@
 # Lava Inc.
 
 Welcome to the central repository for **Lava Inc.**!  
-We are a team passionate about creativity and we work together to create new useful solutions for everyone. This repository gathers key information about our projects, our working process, and how to contribute.
+We are a team passionate about creativity and we work together to create new useful solutions for everyone. This repository gathers key information about our projects and our working process.
 
 ---
 
